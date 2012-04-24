@@ -884,7 +884,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
 				USER_HEADER_SEARCH_PATHS = "";
@@ -904,7 +904,7 @@
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNINITIALIZED_AUTOS = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 5.1;
 				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = "1,2";
@@ -929,13 +929,12 @@
 					"-all_load",
 					"-ObjC",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/ChromeSync\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ProtocolBuffers-gzmunagmnbfwiufoqiueusaoskmc/Build/Products/Release-iphoneos\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ProtocolBuffers-gzmunagmnbfwiufoqiueusaoskmc/Build/Products/Debug-iphoneos\"",
-					"\"$(SRCROOT)/ChromeSync/src\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ChromeSync-fdcggjbouwxffpbbtdgavcthgwaq/Build/Products/Debug\"",
 				);
 				OTHER_LDFLAGS = (
@@ -945,7 +944,7 @@
 				PRODUCT_NAME = Synchromium;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
-				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)\" \"$(SRCROOT)/Libs/FMDB/src\" \"$(SRCROOT)/Libs/LRResty/Classes\"";
+				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)\" \"$(SRCROOT)/Libs/LRResty/Classes\" \"$(SRCROOT)/Libs/FMDB/src\"";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -966,13 +965,12 @@
 					"-all_load",
 					"-ObjC",
 				);
-				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.1;
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
 					"\"$(SRCROOT)/ChromeSync\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ProtocolBuffers-gzmunagmnbfwiufoqiueusaoskmc/Build/Products/Release-iphoneos\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ProtocolBuffers-gzmunagmnbfwiufoqiueusaoskmc/Build/Products/Debug-iphoneos\"",
-					"\"$(SRCROOT)/ChromeSync/src\"",
 					"\"$(SRCROOT)/../../Library/Developer/Xcode/DerivedData/ChromeSync-fdcggjbouwxffpbbtdgavcthgwaq/Build/Products/Debug\"",
 				);
 				OTHER_LDFLAGS = (
@@ -982,7 +980,7 @@
 				PRODUCT_NAME = Synchromium;
 				SDKROOT = iphoneos;
 				TARGETED_DEVICE_FAMILY = 1;
-				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)\" \"$(SRCROOT)/Libs/FMDB/src\" \"$(SRCROOT)/Libs/LRResty/Classes\"";
+				USER_HEADER_SEARCH_PATHS = "$(inherited) \"$(SRCROOT)\" \"$(SRCROOT)/Libs/LRResty/Classes\" \"$(SRCROOT)/Libs/FMDB/src\"";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
