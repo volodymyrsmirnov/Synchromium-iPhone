@@ -1,0 +1,27 @@
+[submodule "Libs/LRResty"]
+	path = Libs/LRResty
+	url = https://github.com/lukeredpath/LRResty.git
+[submodule "Libs/SMiniWebBrowser"]
+	path = Libs/SMiniWebBrowser
+	url = https://github.com/tonisalae/TSMiniWebBrowser.git
+[submodule "Libs/TSMiniWebBrowser"]
+	path = Libs/TSMiniWebBrowser
+	url = https://github.com/tonisalae/TSMiniWebBrowser.git
+[submodule "SJNotificationViewController"]
+	path = SJNotificationViewController
+	url = https://github.com/scottjacksonx/SJNotificationViewController.git
+[submodule "Libs/SJNotificationViewController"]
+	path = Libs/SJNotificationViewController
+	url = https://github.com/scottjacksonx/SJNotificationViewController.git
+[submodule "Libs/IXKeychain"]
+	path = Libs/IXKeychain
+	url = https://github.com/lukef/IXKeychain.git
+[submodule "Libs/FMDB"]
+	path = Libs/FMDB
+	url = https://github.com/ccgus/fmdb.git
+[submodule "ProtocolBuffers-ObjC"]
+	path = ProtocolBuffers-ObjC
+	url = https://github.com/vl4dimir/ProtocolBuffers-ObjC.git
+[submodule "Libs/ProtocolBuffers-ObjC"]
+	path = Libs/ProtocolBuffers-ObjC
+	url = https://github.com/vl4dimir/ProtocolBuffers-ObjC.git
