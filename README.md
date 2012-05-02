@@ -3,6 +3,11 @@ Synchromium-iPhone
 
 iPhone application that allows viewing of synchronization data (History, Bookmarks, Passwords) from Google Chrome browser.
 
+Application is available in iTunes now:
+---------------------------------------
+
+http://itunes.apple.com/us/app/synchromium/id521738462?ls=1&mt=8
+
 External dependancies:
 ----------------------
 
