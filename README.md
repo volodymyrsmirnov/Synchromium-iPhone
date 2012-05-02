@@ -8,7 +8,7 @@ Application is available in iTunes now:
 
 http://itunes.apple.com/us/app/synchromium/id521738462?ls=1&mt=8
 
-External dependancies:
+External dependencies:
 ----------------------
 
  * ProtocolBuffers - http://code.google.com/p/metasyntactic/wiki/ProtocolBuffers
